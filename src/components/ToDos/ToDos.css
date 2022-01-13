@@ -1,0 +1,16 @@
+
+.to-do-item{
+  display: flex;
+  align-items: center;
+  border-bottom: 1 solid #ddd;
+  padding: 5px;
+}
+.todo-item__details {
+  margin-left: 20px;
+  margin-right: auto;
+}
+.todo-item__details p {
+  margin: 0;
+  margin-bottom: 7px;
+}
+

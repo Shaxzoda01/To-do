@@ -7,7 +7,6 @@ import {AiOutlineNotification} from 'react-icons/ai';
 import UserImg from './images.jpg'
 import './Header.css';
 
-
 function Header() {
     return (
         <header >
@@ -34,7 +33,6 @@ function Header() {
                 </div>
             </div>
         </header>
-        
     )
 }
 
